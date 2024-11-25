@@ -1,0 +1,23 @@
+* {
+    margin: 0, auto;
+    padding: 0;
+}
+
+.recipe-container {
+    border: 2px solid #608BC1;
+    background-color: #F3F3E0;
+}
+
+.recipe-description {
+
+}
+
+.recipe-img {
+    
+}
+
+.recipe-heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: 133E87;
+}
